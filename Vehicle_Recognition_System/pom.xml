@@ -1,0 +1,7 @@
+<dependencies>
+    <dependency>
+        <groupId>org.bytedeco</groupId>
+        <artifactId>javacv</artifactId>
+        <version>1.5.5</version>
+    </dependency>
+</dependencies>
